@@ -1,0 +1,11 @@
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\furka\Desktop\BİLGİSAYAR\Murat_Yücedağ\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.pdb
